@@ -1,2 +1,2 @@
-# aruino
+# arduino
 Arduino Project
